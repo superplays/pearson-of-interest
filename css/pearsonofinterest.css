@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+header{
+background-color:lightblue;	
+padding:40px;
+text-align:center;
+}
+h1{
+	font-size:90px;
+	color:white;
+}
+header img{
+border-radius:600px;
+border:10px solid #009;
+}
+/**<header> 
+<img src="pearson-of-interest/harold.gif" width="500" height="282" />
+ <h1>Harold Finch</h1>
+</header>**/
